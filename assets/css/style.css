@@ -1,0 +1,8 @@
+/*
+  location : assetes/css/scss/style.scss
+*/
+.content {
+  color: red;
+  text-align: center; }
+  .content li {
+    color: black; }
